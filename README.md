@@ -1,0 +1,1 @@
+# ecsa_2022_architecture_quality
