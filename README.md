@@ -1,6 +1,6 @@
 # Quality Metrics in Software Architecture
 
-**Title**: Quality Metrics in Software Architecture
+**Paper Title**: Quality Metrics in Software Architecture
 
 **Submitted to**: 16th European Conference on Software Architecture (ECSA)
 
