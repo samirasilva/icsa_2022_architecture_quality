@@ -1,4 +1,4 @@
-# ecsa_2022_architecture_quality
+# Quality Metrics in Software Architecture
 
 **Title**: Quality Metrics in Software Architecture
 
