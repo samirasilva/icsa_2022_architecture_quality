@@ -10,4 +10,4 @@
 - [1 - Initial List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/1_ecsa_2022_supp_initial.ods) (Returned by searching the query)
 - [2 - Screened List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/2_ecsa_2022_supp_screening.ods) (After screening)
 - [3 - Collected List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/3_ecsa_2022_supp_collected_papers.ods) (After merging and removal of duplicates)
-- [4 - Final List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/4_ecsa_2022_supp_extracted_papers.ods) (After criteria Application)
+- [4 - Final List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/4_ecsa_2022_supp_extracted_papers.ods) (After criteria application)
