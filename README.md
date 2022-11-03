@@ -11,7 +11,7 @@ Specifically, this paper aims at surveying the state of the art to identify metr
 In this way, researchers and practitioners can easily retrieve the metrics that are appropriate to their specific needs.
 
 **Supplementary Material** (Replication package):
-- [1 - Initial List of Papers](https://anonymous.4open.science/r/icsa_2022_architecture_quality-C18A/1_icsa_2022_supp_initial.ods) (Returned by searching the query)
-- [2 - Screened List of Papers](https://anonymous.4open.science/r/icsa_2022_architecture_quality-C18A/2_icsa_2022_supp_screening.ods) (After screening)
-- [3 - Collected List of Papers](https://anonymous.4open.science/r/icsa_2022_architecture_quality-C18A/3_icsa_2022_supp_collected_papers.ods) (After merging and removal of duplicates)
-- [4 - Final List of Papers](https://anonymous.4open.science/r/icsa_2022_architecture_quality-C18A/4_icsa_2022_supp_extracted_papers.ods) (After criteria application)
+- [1 - Initial List of Papers](https://anonymous.4open.science/r/icsa_2023_architecture_quality-20D9/1_icsa_2023_supp_initial.ods) (Returned by searching the query)
+- [2 - Screened List of Papers](https://anonymous.4open.science/r/icsa_2023_architecture_quality-20D9/2_icsa_2023_supp_screening.ods) (After screening)
+- [3 - Collected List of Papers](https://anonymous.4open.science/r/icsa_2023_architecture_quality-20D9/3_icsa_2023_supp_collected_papers.ods) (After merging and removal of duplicates)
+- [4 - Final List of Papers](https://anonymous.4open.science/r/icsa_2023_architecture_quality-20D9/4_icsa_2023_supp_extracted_papers.ods) (After criteria application)
